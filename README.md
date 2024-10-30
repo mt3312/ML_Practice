@@ -16,5 +16,7 @@ Brushing upon ML skills
 *  Using real-world churn data (https://www.kaggle.com/datasets/blastchar/telco-customer-churn). 
 *  Encoding Categorical Data: Explored Label Encoding vs. One-Hot Encoding, and implemented both. 
 *  Logistic Regression with Categorical Encoding: Compared the performance of one-hot vs. label-encoded data.
+*  Logistic Regression with class weights for unbalanced data
+*  Logistic Regression with K-fold cross-validation
 
 
